@@ -1,0 +1,11 @@
+ Volume in drive S is Main Storage
+ Volume Serial Number is C64A-EA96
+
+ Directory of S:\A_TEMP\PyhtonTetrisGame
+
+11.08.2019  22:43    <DIR>          .
+11.08.2019  22:43    <DIR>          ..
+11.08.2019  22:42                36 README.md
+11.08.2019  22:43                 0 TestFile.txt
+               2 File(s)             36 bytes
+               2 Dir(s)   2ÿ260ÿ189ÿ184 bytes free
